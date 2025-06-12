@@ -39,5 +39,7 @@ Simply run `Demo_Midi_Representations.ipynb` with jupyter-notebook to extract la
 Music transformer embeddings were used in the following paper ([link](https://www.biorxiv.org/content/10.1101/2024.12.20.629729.abstract)):
 
 ```
-Mischler, G., Li, Y. A., Bickel, S., Mehta, A. D., & Mesgarani, N. (2024). The impact of musical expertise on disentangled and contextual neural encoding of music revealed by generative music models. bioRxiv, 2024-12.
+Mischler, G., Li, Y. A., Bickel, S., Mehta, A. D., & Mesgarani, N. (2024).
+The impact of musical expertise on disentangled and contextual neural
+encoding of music revealed by generative music models. bioRxiv, 2024-12.
 ```
